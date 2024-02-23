@@ -8,3 +8,4 @@ Create files based on a sample file and a desired set of replacement words
 - Run ``run.bat`` to run the script
 
 You can input as many files as you like into ``/input/`` as long as they contian the target word, check the demo contained in ``/input/`` for an example.
+Running the script once will generate the ``/output/`` folder.
